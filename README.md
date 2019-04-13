@@ -9,7 +9,7 @@ When building a Tic Tac Toe program, you're going to have to figure out a way to
 ```
    |   |
 -----------      
-   |   |
+   |   |https://learn.co/tracks/full-stack-web-development-v7/intro-to-ruby-development/variables/tic-tac-toe-board#
 -----------   
    |   |
 ```
